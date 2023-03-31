@@ -8,3 +8,5 @@
 - No se que cocinan.
 - Empiezo a tener hambre.
 - El sonido es perfecto.
+- Empiezo a entender.
+- La practica sirve.
