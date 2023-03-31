@@ -10,3 +10,5 @@
 - El sonido es perfecto.
 - Empiezo a entender.
 - La practica sirve.
+- Liam esta llorando.
+- Como siempre.
